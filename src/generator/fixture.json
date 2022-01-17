@@ -1,0 +1,22 @@
+{
+    "key_str": "val_str",
+    "key_int": 1,
+    "key_double": 1.1,
+    "key_bool": false,
+    "key_null": null,
+    "best_car": {
+        "a": 1,
+        "b": "c",
+        "inner_class": {
+            "a": "h"
+        }
+    },
+    "cars": [
+        {
+            "b": 1,
+            "inner_array_class": {
+                "qwe": 1
+            }
+        }
+    ]
+}
