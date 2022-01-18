@@ -1,0 +1,2 @@
+(self.webpackChunkmodel_generator=self.webpackChunkmodel_generator||[]).push([[5396],{1755:function(e){e.exports=function(e){var a=e.COMMENT(/\(\*/,/\*\)/);return{name:"Extended Backus-Naur Form",illegal:/\S/,contains:[a,{className:"attribute",begin:/^[ ]*[a-zA-Z]+([\s_-]+[a-zA-Z]+)*/},{begin:/=/,end:/[.;]/,contains:[a,{className:"meta",begin:/\?.*\?/},{className:"string",variants:[e.APOS_STRING_MODE,e.QUOTE_STRING_MODE,{begin:"`",end:"`"}]}]}]}}}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_ebnf.7a67ade9.chunk.js.map

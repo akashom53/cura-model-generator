@@ -1,0 +1,2 @@
+(self.webpackChunkmodel_generator=self.webpackChunkmodel_generator||[]).push([[8048],{1879:function(e){e.exports=function(e){return{name:"ERB",subLanguage:"xml",contains:[e.COMMENT("<%#","%>"),{begin:"<%[%=-]?",end:"[%-]?%>",subLanguage:"ruby",excludeBegin:!0,excludeEnd:!0}]}}}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_erb.6935543d.chunk.js.map

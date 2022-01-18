@@ -1,0 +1,2 @@
+(self.webpackChunkmodel_generator=self.webpackChunkmodel_generator||[]).push([[3610],{7217:function(e){e.exports=function(e){return{name:"Clojure REPL",contains:[{className:"meta",begin:/^([\w.-]+|\s*#_)?=>/,starts:{end:/$/,subLanguage:"clojure"}}]}}}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_clojureRepl.fb057152.chunk.js.map
